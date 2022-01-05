@@ -165,3 +165,13 @@ h2{
     background-image: linear-gradient(#483fad, #b83686);
     color: white;
 }
+/* service section end*/
+
+/* footer section start */
+.footer-text{
+    text-align: center;
+    background-image: linear-gradient(#483fad, #b83686);
+    color: white;
+    padding: 10px 0;
+    margin-bottom: 0%;
+}
